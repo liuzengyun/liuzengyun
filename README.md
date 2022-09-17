@@ -2,15 +2,13 @@
 <h3 align="center">A graduate student from China</h3>
 
 
-- 🔭 I’m currently working on **3D Object Detection**
+- 🔭 I’m currently working on **Unsupervised Domain Adaptation for 3D Object Detection**
 
 - 🌱 I’m currently learning **Pytorch, Deep Learning**
 
-- 🤝 I’m looking for help with **3D Object Detection based on Point Cloud**
+- 📝 I regularly write articles on **[http://www.cvzoo.cn](http://www.cvzoo.cn)**
 
-- 📝 I regularly write articles on **[http://www.upclzy.com](http://www.upclzy.com)**
-
-- 💬 My email is **liuzengyun@88.com**
+- 💬 My email is **i@cvzoo.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

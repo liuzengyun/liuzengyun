@@ -10,5 +10,5 @@ student of Tianjin University
 
 <img src="https://github-readme-stats.vercel.app/api?username=liuzengyun"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzengyun&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzengyun"/>
 
